@@ -1,0 +1,24 @@
+[
+  {
+    "id": "DEMO_P1",
+    "sheet": "Synthetic sample personas",
+    "title": "Example: workplace speaking",
+    "description": "Synthetic example for testing the application. Not a SpeakX research persona.",
+    "professions": "Example office role",
+    "problems": "Finding words during a meeting",
+    "wants": "Practise a short work update",
+    "skills": "Clear spoken updates",
+    "outcomes": "Describe a project in English"
+  },
+  {
+    "id": "DEMO_P2",
+    "sheet": "Synthetic sample personas",
+    "title": "Example: everyday conversation",
+    "description": "Synthetic example for testing the application. Not a SpeakX research persona.",
+    "professions": "Example adult learner",
+    "problems": "Starting a casual conversation",
+    "wants": "Practise everyday dialogue",
+    "skills": "Conversation starters",
+    "outcomes": "Introduce yourself in English"
+  }
+]
